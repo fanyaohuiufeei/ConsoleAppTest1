@@ -8,6 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("我是!");
+            Console.WriteLine("范耀辉!");
         }
     }
 }
